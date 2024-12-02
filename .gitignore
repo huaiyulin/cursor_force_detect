@@ -1,0 +1,23 @@
+# Python 虛擬環境
+venv/
+env/
+.env/
+.venv/
+
+# Python 快取文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 系統文件
+.DS_Store
+Thumbs.db
+
+# IDE 設定
+.vscode/
+.idea/
+
+# 臨時文件
+temp_plot.png
+*.pdf
+*.log 
